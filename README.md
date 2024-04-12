@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jonathan!
+# 👋🏼 Hi, I'm Jonathan!
 
 
 👨🏻‍🎓 Studied MSc Finance at the King's College London, United Kingdom<br>
