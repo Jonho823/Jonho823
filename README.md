@@ -1,5 +1,6 @@
-# 👋🏼 Hi, I'm Jonathan!
+# Jonathan Ho
 
+I am Jonathan and I'm a MSc Finance gradute from KCL.
 
 👨🏻‍🎓 Studied MSc Finance at the King's College London, United Kingdom<br>
 💭 Currently learning about data analytics and its application in finance!
